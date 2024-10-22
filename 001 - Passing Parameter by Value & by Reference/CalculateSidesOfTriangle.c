@@ -3,6 +3,8 @@
 
 #define PI 3.14159
 
+void panjang_sisi(double sudutBAC, double BC, double AB);
+
 void panjang_sisi(double sudutBAC, double BC, double AB) {
     double sudutBAC_radian = sudutBAC * PI / 180;
 
