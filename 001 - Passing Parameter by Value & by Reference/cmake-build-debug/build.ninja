@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/daffa/PENS/Praktikum$ Konsep$ Pemrograman/001$ -$ Pass
 
 build cmake_object_order_depends_target_Tugas_7: phony || .
 
-build CMakeFiles/Tugas_7.dir/CalculateSidesOfTriangle.c.obj: C_COMPILER__Tugas_7_unscanned_Debug D$:/daffa/PENS/Praktikum$ Konsep$ Pemrograman/001$ -$ Passing$ Parameter$ by$ Value$ &$ by$ Reference/CalculateSidesOfTriangle.c || cmake_object_order_depends_target_Tugas_7
-  DEP_FILE = CMakeFiles\Tugas_7.dir\CalculateSidesOfTriangle.c.obj.d
+build CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj: C_COMPILER__Tugas_7_unscanned_Debug D$:/daffa/PENS/Praktikum$ Konsep$ Pemrograman/001$ -$ Passing$ Parameter$ by$ Value$ &$ by$ Reference/PermutationAndCombination.c || cmake_object_order_depends_target_Tugas_7
+  DEP_FILE = CMakeFiles\Tugas_7.dir\PermutationAndCombination.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Tugas_7.dir
   OBJECT_FILE_DIR = CMakeFiles\Tugas_7.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Tugas_7.dir/CalculateSidesOfTriangle.c.obj: C_COMPILER__Tugas_7
 #############################################
 # Link the executable Tugas_7.exe
 
-build Tugas_7.exe: C_EXECUTABLE_LINKER__Tugas_7_Debug CMakeFiles/Tugas_7.dir/CalculateSidesOfTriangle.c.obj
+build Tugas_7.exe: C_EXECUTABLE_LINKER__Tugas_7_Debug CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Tugas_7.dir

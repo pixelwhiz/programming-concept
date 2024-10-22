@@ -1,7 +1,18 @@
 # ninja log v6
-63	154	7513149217061731	Tugas_7.exe	fba215935081d75e
-2	190	7513154995606022	build.ninja	ad2580e2ae2df677
+68	157	7513191996346264	Tugas_7.exe	54de1628f68dcade
+2	204	7513205929750759	build.ninja	ad2580e2ae2df677
 1	63	7513149216444864	CMakeFiles/Tugas_7.dir/CalculateSidesOfTriangle.c.obj	d01f46f0094a0b38
 2	64	7513145580795683	CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj	f539bd239ceb415c
-4	70	7513147414291177	CMakeFiles/Tugas_7.dir/LargestNumber.c.obj	44cafb753db1638c
+1	67	7513191995679606	CMakeFiles/Tugas_7.dir/LargestNumber.c.obj	44cafb753db1638c
 2	58	7513148339889857	CMakeFiles/Tugas_7.dir/PassByReference.c.obj	ae6c895a18beb50b
+2	192	7513205929750759	build.ninja	ad2580e2ae2df677
+2	58	7513206044106152	CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj	f539bd239ceb415c
+59	144	7513206044679658	Tugas_7.exe	673007c25fa2bdd4
+5	65	7513206439128548	CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj	f539bd239ceb415c
+65	148	7513206439719839	Tugas_7.exe	673007c25fa2bdd4
+4	68	7513206666173581	CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj	f539bd239ceb415c
+68	158	7513206666811149	Tugas_7.exe	673007c25fa2bdd4
+12	185	7513304610978972	CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj	f539bd239ceb415c
+185	330	7513304612741124	Tugas_7.exe	673007c25fa2bdd4
+5	63	7513304806925659	CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj	f539bd239ceb415c
+63	144	7513304807510586	Tugas_7.exe	673007c25fa2bdd4

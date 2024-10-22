@@ -23,9 +23,10 @@ int largestNumber(int a, int b) {
 
 /**
  *
- * Output
+ * OUTPUT
  *
  * Masukkan angka pertama:5
  * Masukkan angka kedua:9
  * Bilangan terbesar adalah: 9
  *
+ */

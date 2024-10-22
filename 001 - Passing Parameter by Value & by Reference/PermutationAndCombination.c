@@ -33,6 +33,7 @@ void permutation(int n, int r) {
     printf("Permutation = %i\n", p);
 
 }
+
 void combination(int n, int r) {
     int factorialR = 1, factorial1 = 1, factorial2 = 1;
     int a = n - r;
@@ -46,12 +47,13 @@ void combination(int n, int r) {
     }
 
     for (int i = 1; i <= a; i++) {
-        factorial2 = factorialR * (a *= i);
+        factorial2 *= i;
     }
 
-    int hasil = factorial1 / factorial2;
+    int hasil = factorial1 / (factorialR * factorial2);
     printf("Combination = %i\n", hasil);
 }
+
 
 
 /**
@@ -63,3 +65,4 @@ void combination(int n, int r) {
  *  Permutation = 60
  *  Combination = 0
  *
+ */

@@ -30,10 +30,10 @@ int main() {
 
 /**
  *
- * Output
+ * OUTPUT
  *
  * Masukkan besar sudut BAC (dalam derajat):90
  * Masukkan panjang sisi AB (dalam meter):5
  * Panjang sisi BC adalah: 5.00 meter
  *
-
+ */
