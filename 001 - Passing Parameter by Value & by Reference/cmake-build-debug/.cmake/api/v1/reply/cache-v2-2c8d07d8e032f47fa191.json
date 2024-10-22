@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug"
+			"value" : "d:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7"
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug"
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug"
 		},
 		{
 			"name" : "Tugas_7_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7"
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

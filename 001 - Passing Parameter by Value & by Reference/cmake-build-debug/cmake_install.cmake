@@ -1,4 +1,4 @@
-# Install script for directory: D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7
+# Install script for directory: D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

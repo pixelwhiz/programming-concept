@@ -1,3 +1,3 @@
-D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/CMakeFiles/Tugas_7.dir
-D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug/CMakeFiles/Tugas_7.dir
+D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug/CMakeFiles/rebuild_cache.dir

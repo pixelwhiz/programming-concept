@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Tugas_7::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Tugas_7-Debug-76f18d21e57f2a6c74ff.json",
+					"jsonFile" : "target-Tugas_7-Debug-b32e8f195a077bfc3a78.json",
 					"name" : "Tugas_7",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug",
-		"source" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7"
+		"build" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug",
+		"source" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference"
 	},
 	"version" : 
 	{
