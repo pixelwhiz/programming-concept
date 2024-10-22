@@ -1,0 +1,9 @@
+# ninja log v6
+4	77	7513164227954364	CMakeFiles/002___Array1.dir/main.c.obj	9fce45ad09159d89
+63	142	7513177411127477	002___Array1.exe	463a1b101b26b004
+1	190	7513178416158114	build.ninja	f070d6d1cfd2265b
+3	61	7513173841928933	CMakeFiles/002___Array1.dir/FibonancciSequence.c.obj	c32460cb6432cee3
+3	62	7513177410526684	CMakeFiles/002___Array1.dir/MatrixCalculation.c.obj	4a60705fa8c0c806
+2	191	7513178416158114	build.ninja	f070d6d1cfd2265b
+2	57	7513178416371639	CMakeFiles/002___Array1.dir/FindMaxInArray.c.obj	abde89da154a75d
+57	144	7513178416933098	002___Array1.exe	5abe87de1613c080
