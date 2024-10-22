@@ -26,9 +26,10 @@ int main(void) {
 
 /**
  *
- * Output
+ * OUTPUT
  *
  * Masukkan bilangan pertama:5
  * Masukkan bilangan kedua:8
  * Hasil setelah dinaikkan 2: 7 dan 10
  *
+ */

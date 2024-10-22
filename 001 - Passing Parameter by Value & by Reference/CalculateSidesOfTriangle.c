@@ -1,28 +1,27 @@
 #include <stdio.h>
 #include <math.h>
 
-#define PI 3.14159265
+#define PI 3.14159
 
-double degree_to_radian(double degree);
+void panjang_sisi(double sudutBAC, double BC, double AB) {
+    double sudutBAC_radian = sudutBAC * PI / 180;
 
-double degree_to_radian(double degree) {
-    return degree * (PI / 180.0);
+    BC = AB * tan(sudutBAC_radian);
+
+    printf("Panjang sisi BC adalah %.2f meter\n", BC);
+
 }
 
 int main() {
-    double sudut_BAC, panjang_AB, panjang_BC;
+    double sudutBAC, AB, BC;
 
     printf("Masukkan besar sudut BAC (dalam derajat): ");
-    scanf("%lf", &sudut_BAC);
+    scanf("%lf", &sudutBAC);
 
     printf("Masukkan panjang sisi AB (dalam meter): ");
-    scanf("%lf", &panjang_AB);
+    scanf("%lf", &AB);
 
-    double sudut_BAC_radian = degree_to_radian(sudut_BAC);
-
-    panjang_BC = panjang_AB * sin(sudut_BAC_radian);
-
-    printf("Panjang sisi BC adalah: %.2lf meter\n", panjang_BC);
+    panjang_sisi(sudutBAC, BC, AB);
 
     return 0;
 }
