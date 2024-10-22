@@ -19,3 +19,13 @@ int main(void) {
 int largestNumber(int a, int b) {
     return (a > b) ? a : b;
 }
+
+
+/**
+ *
+ * Output
+ *
+ * Masukkan angka pertama:5
+ * Masukkan angka kedua:9
+ * Bilangan terbesar adalah: 9
+ *

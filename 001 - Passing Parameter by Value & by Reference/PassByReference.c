@@ -20,3 +20,13 @@ int main(void) {
 
     return 0;
 }
+
+
+/**
+ *
+ * Output
+ *
+ * Masukkan bilangan pertama:5
+ * Masukkan bilangan kedua:8
+ * Hasil setelah dinaikkan 2: 7 dan 10
+ *

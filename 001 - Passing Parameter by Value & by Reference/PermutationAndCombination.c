@@ -52,3 +52,14 @@ void combination(int n, int r) {
     int hasil = factorial1 / factorial2;
     printf("Combination = %i\n", hasil);
 }
+
+
+/**
+ *
+ * Output
+ *
+ *  Masukkan N:5
+ *  Masukkan R:3
+ *  Permutation = 60
+ *  Combination = 0
+ *
