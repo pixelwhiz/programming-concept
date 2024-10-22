@@ -2,6 +2,42 @@
 	"entries" : 
 	[
 		{
+			"name" : "002___Array1_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/002 - Array1/cmake-build-debug"
+		},
+		{
+			"name" : "002___Array1_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "002___Array1_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/002 - Array1"
+		},
+		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -55,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug"
+			"value" : "d:/daffa/PENS/Praktikum Konsep Pemrograman/002 - Array1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/002 - Array1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference"
+			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/002 - Array1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +551,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Tugas_7"
+			"value" : "C:/Program Files (x86)/002___Array1"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -543,7 +579,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -731,7 +767,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Tugas_7"
+			"value" : "002___Array1"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1124,42 +1160,6 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
-		},
-		{
-			"name" : "Tugas_7_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference/cmake-build-debug"
-		},
-		{
-			"name" : "Tugas_7_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Tugas_7_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/daffa/PENS/Praktikum Konsep Pemrograman/001 - Passing Parameter by Value & by Reference"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

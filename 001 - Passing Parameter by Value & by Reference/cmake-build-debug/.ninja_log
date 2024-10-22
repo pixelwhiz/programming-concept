@@ -1,10 +1,7 @@
 # ninja log v6
-59	145	7513148340460132	Tugas_7.exe	482ffa1552f80006
-1	186	7513149216239959	build.ninja	ad2580e2ae2df677
-4	69	7513145489351288	CMakeFiles/Tugas_7.dir/CalculateSidesOfTriangle.c.obj	d01f46f0094a0b38
+63	154	7513149217061731	Tugas_7.exe	fba215935081d75e
+2	190	7513154995606022	build.ninja	ad2580e2ae2df677
+1	63	7513149216444864	CMakeFiles/Tugas_7.dir/CalculateSidesOfTriangle.c.obj	d01f46f0094a0b38
 2	64	7513145580795683	CMakeFiles/Tugas_7.dir/PermutationAndCombination.c.obj	f539bd239ceb415c
 4	70	7513147414291177	CMakeFiles/Tugas_7.dir/LargestNumber.c.obj	44cafb753db1638c
 2	58	7513148339889857	CMakeFiles/Tugas_7.dir/PassByReference.c.obj	ae6c895a18beb50b
-2	190	7513149216239959	build.ninja	ad2580e2ae2df677
-1	63	7513149216444864	CMakeFiles/Tugas_7.dir/CalculateSidesOfTriangle.c.obj	d01f46f0094a0b38
-63	154	7513149217061731	Tugas_7.exe	fba215935081d75e
