@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+void naikkan_dengan_2(int *a, int *b);
+
 void naikkan_dengan_2(int *a, int *b) {
     *a += 2;
     *b += 2;

@@ -3,6 +3,8 @@
 
 #define PI 3.14159265
 
+double degree_to_radian(double degree);
+
 double degree_to_radian(double degree) {
     return degree * (PI / 180.0);
 }
