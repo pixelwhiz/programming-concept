@@ -9,7 +9,6 @@ void panjang_sisi(double sudutBAC, double BC, double AB) {
     BC = AB * tan(sudutBAC_radian);
 
     printf("Panjang sisi BC adalah %.2f meter\n", BC);
-
 }
 
 int main() {
@@ -31,8 +30,8 @@ int main() {
  *
  * OUTPUT
  *
- * Masukkan besar sudut BAC (dalam derajat):90
+ * Masukkan besar sudut BAC (dalam derajat):40
  * Masukkan panjang sisi AB (dalam meter):5
- * Panjang sisi BC adalah: 5.00 meter
+ * Panjang sisi BC adalah 4.20 meter
  *
  */
