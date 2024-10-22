@@ -1,0 +1,3 @@
+D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/CMakeFiles/Tugas_7.dir
+D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/daffa/PENS/Praktikum Konsep Pemrograman/Tugas 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
